@@ -18,7 +18,8 @@ public class ViewControllerModalRecorder {
 
   func swizzle() {
     swizzleControllerPresentation()
-
+    swizzleControllerDismiss()
+    
     print("swizzzzzzzzz (ViewControllerModalRecorder)")
   }
 
